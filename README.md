@@ -1,6 +1,9 @@
 # Market_Basket_Analysis_Using_Groceries_Dataset
+
 1 Introduction
+
 1.1 Dataset Overview
+
 The dataset has 38,765 entries and 3 columns.
 There are no missing values in the dataset.
 The columns are as follows:
@@ -15,13 +18,20 @@ The project involves analyzing the Kaggle Groceries dataset to study sales forec
 1.3 Load The Data
 
 2 Exploratory Data Analysis
+
 2.1 Data Overview
+
 The dataset comprises 3 variables, encompassing 2 categorical and 1 numerical attribute, across a total of 38,765 observations. Presented below is a concise overview of the dataset.
+
 2.2 Data Cleaning and Transformation
+
 Transformed the 'Date' column to datetime format and resampled the data to a daily frequency for time-series analysis. Filled any missing values with zeros.
+
 2.3 Visualization
+
 To understand the data structure, use suitable plots like line graphs or bar charts, taking into account the variable types in the time series.
 
 3 Modeling
+
 3.1 Model Selection and Tuning
 
